@@ -1,0 +1,14 @@
+# Raw data files 
+data/raw/*.csv
+data/raw/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
